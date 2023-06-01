@@ -1,0 +1,16 @@
+/* 
+    CSS Guide 
+
+    1.  General Styles (Normalize)
+
+ */
+ 
+ @media all and (max-width: 400px) { 
+    body {
+        max-width: fit-content;
+    }
+ }
+    
+
+
+ /* 1. ---General Styles--- */
